@@ -1,0 +1,11 @@
+.testInfo{
+  font: 24rpx;
+  color: red;
+  padding-left: 50rpx;
+}
+
+.header{
+  font: 24rpx;
+  color: red;
+  padding-left: 50rpx;
+}

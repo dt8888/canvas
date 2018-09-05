@@ -1,0 +1,5 @@
+<template name="test">
+   <text class='testInfo'>{{text}}</text>
+</template>
+
+<view class='header'> header </view>
